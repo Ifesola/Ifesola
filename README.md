@@ -16,7 +16,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Automated bulk creation of user accounts      | https://github.com/Ifesola/Active-Directory-Lab|
-| Deployed and maintained EC2 instances | AWS Lab|
+| Deployed and maintained EC2 instances         | AWS Lab|
 
 ## Tools
 
