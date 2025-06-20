@@ -6,7 +6,7 @@ I am a recent Microsoft MSSA graduate with a profound interest in technology and
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity and cloud computing, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology has led me to develop a passion for cybersecurity and cloud computing, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst.
 
 ## Skills
 
