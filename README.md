@@ -20,6 +20,12 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Tools
 
+### Cloud Platform 
+<div>
+    <img src="https://img.shields.io/badge/-AWS_Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure_Platform-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
