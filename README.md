@@ -17,6 +17,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Automated bulk creation of user accounts      | <a href="https://github.com/Ifesola/Active-Directory-Lab">Active Directory Lab</a>|
 | Deployed and maintained EC2 instances         | AWS Lab|
+| Zero-Trust-Architecture-Blog                  | <a href="https://github.com/Ifesola/zero-trust-architecture-blog">Zero Trust Architecture Blog Post</a>| 
+
 
 ## Tools
 
