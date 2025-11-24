@@ -18,6 +18,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Automated bulk creation of user accounts      | <a href="https://github.com/Ifesola/Active-Directory-Lab">Active Directory Lab</a>|
 | Deployed and maintained EC2 instances         | AWS Lab|
 | Zero-Trust-Architecture-Blog                  | <a href="https://ifesola.github.io/zero-trust-architecture-blog/">Zero Trust Architecture Blog Post</a>| 
+| Web Portfolio                                 | <a href="https://github.com/Ifesola/ifesola-career-site">Web Portofolio</a>
 
 
 ## Tools
