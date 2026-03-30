@@ -6,7 +6,7 @@ I am a Microsoft MSSA graduate, currently completing a B.S. in Information Techn
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity and cloud computing, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst.
+My journey in Information Technology has led me to develop a passion for Data Analysis, cybersecurity, and cloud computing, and I am now eager to transition into this field, specifically aiming to join a Data or Security Operations Center (SOC) as an Analyst.
 
 ## Skills
 
