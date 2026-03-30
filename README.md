@@ -21,8 +21,8 @@ My journey in Information Technology has led me to develop a passion for Data An
 | Ifesola Career Site Project Webpage           | <a href="https://github.com/Ifesola/ifesola-career-site">Web Portofolio</a>
 | Paradigm Pet Professionals website redesign   | <a href="https://github.com/Ifesola/Paradigm-Pet-Professionals-    redesign/tree/main"> UI/UX Website Redesign</a>
 | Global Layoffs Data Analysis (SQL + Tableau)  | <a href="https://github.com/Ifesola/layoffs-sql-tableau-analysis"> layoffs-sql-tableau-analysis</a>|
-
 | Data Analyst Skilled in SQL, Tableau,& Python | <a href="https://ifesola.github.io/IfesolaTheAnalyst.github.io/">IfesolaTheAnalyst</a>|
+
 
 ## Tools
 
