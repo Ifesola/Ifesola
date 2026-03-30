@@ -20,6 +20,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Zero-Trust-Architecture-Blog                  | <a href="https://ifesola.github.io/zero-trust-architecture-blog/">Zero Trust Architecture Blog Post</a>| 
 | Ifesola Career Site Project Webpage           | <a href="https://github.com/Ifesola/ifesola-career-site">Web Portofolio</a>
 | Paradigm Pet Professionals website redesign   | <a href="https://github.com/Ifesola/Paradigm-Pet-Professionals-redesign/tree/main"> UI/UX Website Redesign</a>
+| Global Layoffs Data Analysis (SQL + Tableau)  | <a href="https:https://github.com/Ifesola/layoffs-sql-tableau-analysis"> layoffs-sql-tableau-analysis</a>|
 
 ## Tools
 
