@@ -44,10 +44,14 @@ My journey in Information Technology has led me to develop a passion for Data An
    
 </div>
 
-### SIEM
+### TOOLS
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
 
 ## Certifications
